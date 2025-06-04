@@ -17,7 +17,7 @@
         app:layout_constraintBottom_toTopOf="@+id/footer"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintVertical_bias="0.7">
+        app:layout_constraintVertical_bias="0.6">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -30,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Welcome Back"
+                android:text="Masuk"
                 android:textSize="24sp"
                 android:textStyle="bold"
                 android:textColor="#2E3A59"
@@ -40,7 +40,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Sign in to your account"
+                android:text="Masuk untuk melanjutkan"
                 android:textSize="14sp"
                 android:textColor="#8E8E93"
                 android:layout_marginBottom="32dp" />
