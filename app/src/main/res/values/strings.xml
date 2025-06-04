@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabung Aja</string>
+    <string-array name="status_array">
+        <item>Belum Ditonton</item>
+        <item>Sedang Ditonton</item>
+        <item>Selesai</item>
+    </string-array>
+</resources>

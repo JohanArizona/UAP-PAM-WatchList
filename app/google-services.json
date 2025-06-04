@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "216563006488",
+    "firebase_url": "https://uap-pam-watchlist-default-rtdb.firebaseio.com",
+    "project_id": "uap-pam-watchlist",
+    "storage_bucket": "uap-pam-watchlist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216563006488:android:039022f1181b73dad0576d",
+        "android_client_info": {
+          "package_name": "com.example.uap_pam_watchlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXMte9TeEOgOVROXMpfrTLQvkylUHCDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
